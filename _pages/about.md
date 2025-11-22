@@ -13,3 +13,7 @@ My name is Zhengtong Zhu (朱政同). I am a graduate student at the School of C
 Research and Publications
 ======
 As of November 2025, as a second-year graduate student and an early-stage researcher, I have made several achievements. I have one first-author paper accepted by the top-tier conference AAAI, and I currently have two papers under review at CVPR and IEEE TMM.
+
+🔥News
+======
+2025.11: 🎉 Our paper _Training-Free Spatio-temporal Decoupled Reasoning Video Segmentation with Adaptive Object Memory_ is accepted by AAAI 2026.
