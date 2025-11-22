@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhengtong Zhu (朱政同). I am a graduate student at the School of Computer Science and Technology, Soochow University, supervised by Prof. Jiaqing Fan. My research interests include video object segmentation, self-supervised learning, and multimodal understanding. I am currently seeking a platform that can support me in advancing my research further.
+My name is Zhengtong Zhu (朱政同). I am a graduate student at the School of Computer Science and Technology, Soochow University, supervised by Jiaqing Fan. My research interests include video object segmentation, self-supervised learning, and multimodal understanding. I am currently seeking a platform that can support me in advancing my research further.
 
 Research and Publications
 ======
